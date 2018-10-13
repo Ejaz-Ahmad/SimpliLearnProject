@@ -4,7 +4,6 @@
     <property name="class.dir"      value="bin"/>
     <property name="jar.dir"        value="dist"/>
     <property name="main-class"     value="com.ejaz.mindtree.NumberToWordConversion"/>
- 
     <path id="libraries.path">   
         <fileset dir="${lib.dir}">
             <include name="*.jar"/>
